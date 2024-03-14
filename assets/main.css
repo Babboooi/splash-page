@@ -54,7 +54,7 @@ Grid
 }   
 body {
   background-color: #0d080e /*#5E5E5E*/;
-  background-image: url("img/sunset.jpeg");
+  background-image: url("img/beach.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top;
@@ -111,12 +111,6 @@ p {
 Footer
 =======================================
 */
-<footer class="container">
-<!-- UPDATE THIS →
-<a href="https://instagram.com/titanstartup" target=”_blank”><i class="fab fa-instagram"></i></a>
-<a href="https://twitter.com/titanstartup" target=”_blank”><i class="fab fa-twitter"></i></a>
-<a href="https://www.facebook.com/TitanStartup/" target=”_blank”><i class="fab fa-facebook-f"></i></a>
-<a href="mailto:mmacfadden@gmail.com" target=”_blank”><i class="far fa-envelope"></i></a>
-</footer>
+
 
 
